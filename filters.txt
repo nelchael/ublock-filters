@@ -1,3 +1,7 @@
+! Title: nelchael filter set
+! Expires: 1 day
+! Homepage: https://github.com/nelchael/ublock-filters
+
 antyweb.pl##div.banner
 
 inoreader.com##.sinner.ad_size_leaderboard.leaderboard_ad.block_article_ad
