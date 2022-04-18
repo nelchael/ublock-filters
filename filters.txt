@@ -1,6 +1,7 @@
 ! Title: nelchael filter set
 ! Expires: 1 day
 ! Homepage: https://github.com/nelchael/ublock-filters
+! Licence: https://github.com/nelchael/ublock-filters/blob/main/LICENSE
 
 antyweb.pl##div.banner
 
