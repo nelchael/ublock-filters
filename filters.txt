@@ -1,5 +1,5 @@
 ! Title: nelchael filter set
-! Expires: 1 day
+! Expires: 6 hours
 ! Homepage: https://github.com/nelchael/ublock-filters
 ! Licence: https://github.com/nelchael/ublock-filters/blob/main/LICENSE
 
