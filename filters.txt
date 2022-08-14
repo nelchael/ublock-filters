@@ -25,3 +25,5 @@ bezprawnik.pl##.partners-top__outer
 bezprawnik.pl##[class^=ad_slot_height_manager_wrapper]
 
 benchmark.pl##.ad-ph
+
+theregister.com##.gtag_display.adun
