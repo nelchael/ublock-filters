@@ -18,6 +18,7 @@ gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokie
 gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl###DFP_PREMIUMBOARD
 gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl##.DFP-premiumBoardReservedPlace
 gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl##[id^=mcBan_]
+gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl##main > div:has(> iframe)
 
 natemat.pl##aside
 
