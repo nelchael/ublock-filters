@@ -9,16 +9,16 @@ inoreader.com##.sinner.ad_size_leaderboard.leaderboard_ad.block_article_ad
 
 joemonster.org###main_billboard
 
-gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl##[id^=banC]
-gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl###adviewDFPBanner
-gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl##.adviewDFPBanner
-gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl##.ban001_wrapper
-gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl##[id^=DFP-]
-gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl##.salesModule
-gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl###DFP_PREMIUMBOARD
-gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl##.DFP-premiumBoardReservedPlace
-gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl##[id^=mcBan_]
-gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl##main > div:has(> iframe)
+gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##[id^=banC]
+gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl###adviewDFPBanner
+gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##.adviewDFPBanner
+gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##.ban001_wrapper
+gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##[id^=DFP-]
+gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##.salesModule
+gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl###DFP_PREMIUMBOARD
+gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##.DFP-premiumBoardReservedPlace
+gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##[id^=mcBan_]
+gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##main > div:has(> iframe)
 
 natemat.pl##aside
 
