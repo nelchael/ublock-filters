@@ -19,7 +19,7 @@ gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokie
 gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##.DFP-premiumBoardReservedPlace
 gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##[id^=mcBan_]
 gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##main > div:has(> iframe)
-gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##[class^=Ad_wrapper__]
+gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##[class*=Ad_wrapper__]
 
 natemat.pl##aside
 
