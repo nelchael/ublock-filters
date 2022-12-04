@@ -5,9 +5,10 @@
 
 antyweb.pl##div.banner
 
-inoreader.com##.sinner.ad_size_leaderboard.leaderboard_ad.block_article_ad
+benchmark.pl##.ad-ph
 
-joemonster.org###main_billboard
+bezprawnik.pl##.partners-top__outer
+bezprawnik.pl##[class^=ad_slot_height_manager_wrapper]
 
 gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##[id^=banC]
 gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl###adviewDFPBanner
@@ -22,11 +23,12 @@ gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokie
 gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##[class*=Ad_wrapper__]
 gazeta.pl,wyborcza.pl,wyborcza.biz,moto.pl,edziecko.pl,tokfm.pl,sport.pl,wysokieobcasy.pl,haps.pl,ukrayina.pl##[class*=adsWrapper]
 
+inoreader.com##.sinner.ad_size_leaderboard.leaderboard_ad.block_article_ad
+
+joemonster.org###main_billboard
+
 natemat.pl##aside
 
-bezprawnik.pl##.partners-top__outer
-bezprawnik.pl##[class^=ad_slot_height_manager_wrapper]
-
-benchmark.pl##.ad-ph
+onet.pl##[class*=AdSlotPlaceholder_placeholder]
 
 theregister.com##.gtag_display.adun
