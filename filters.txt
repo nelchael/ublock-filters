@@ -32,5 +32,3 @@ natemat.pl##aside
 onet.pl##[class*=AdSlotPlaceholder_placeholder]
 
 theregister.com##.gtag_display.adun
-
-www.autocentrum.pl##div.wrapper:has(style):has(div)
